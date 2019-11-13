@@ -24,7 +24,7 @@
 	</modules>
 
 	<properties>
-		<java.version>10</java.version>
+		<java.version>8</java.version>
 		<spring-cloud.version>Finchley.SR2</spring-cloud.version>
 	</properties>
 
